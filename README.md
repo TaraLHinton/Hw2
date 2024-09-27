@@ -54,9 +54,4 @@ Choice of $K$ can also influence this classifier.  Why would choosing $K = 6$ no
 
 As discussed in class, choosing a k that is divisible by the number of explanatory variables is not advisible. This can lead to classification issues in which, if there are "classification ties" in R, there will be a random decision about a point's classification. We do not want our classifications to be a coin toss -- that completely defeats the purpose of doing classification! :)
 
-#
-
-Build a github repository to store your homework assignments.  Share the link in this file.  
-
-*STUDENT INPUT*
 
